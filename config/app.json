@@ -1,6 +1,10 @@
 {
-  "appName": "Web App",
-  "packageName": "com.example.webapp",
-  "orientation": "auto",
-  "permissions": ["internet", "network_state"]
+  "appName": "Link download",
+  "packageName": "com.web2apk.linkdownload77p3",
+  "orientation": "portrait",
+  "permissions": [
+    "notification",
+    "file_manager",
+    "wifi_state"
+  ]
 }
